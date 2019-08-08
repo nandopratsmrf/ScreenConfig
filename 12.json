@@ -1,0 +1,18 @@
+{
+	"settingsReloadIntervalMinutes": 2,
+	"fullscreen": true,
+	"autoStart": true,
+	"lazyLoadTabs": false,
+	"websites": [
+		{
+			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/Wx6w",
+			"duration": 15,
+			"tabReloadIntervalSeconds": 900
+		},
+		{
+			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/W3fw",
+			"duration": 15,
+			"tabReloadIntervalSeconds": 900
+		}
+	]
+}
