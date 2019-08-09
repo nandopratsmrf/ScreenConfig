@@ -18,6 +18,11 @@
 			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/Zy6w",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 900
+		},
+		{
+			"url": "https://fourier.marfeel.com/kibana/goto/68b348c59d4116a817c825fc5bd43d06",
+			"duration": 15,
+			"tabReloadIntervalSeconds": 0
 		}
 	]
 }
