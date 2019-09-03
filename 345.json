@@ -22,7 +22,7 @@
 		{
 			"url": "https://fourier.marfeel.com/kibana/goto/68b348c59d4116a817c825fc5bd43d06",
 			"duration": 15,
-			"tabReloadIntervalSeconds": 0
+			"tabReloadIntervalSeconds": 3600
 		}
 	]
 }
